@@ -53,32 +53,6 @@ knitr::include_graphics('figuras/esalq.jpg')
 
 ---
 
-# Universidades &#127979;
-
-&#10004; Unoeste
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '25%'}
-knitr::include_graphics('figuras/logo_unoeste.jpg')
-```
-
-<br>
-
-&#10004; UEM
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '25%'}
-knitr::include_graphics('figuras/logo_uem.jpg')
-```
-
-<br>
-
-&#10004; UTFPR
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '25%'}
-knitr::include_graphics('figuras/utfpr.jpg')
-```
-
----
-
 # Apresentar-se
 
 - Nome e o período
@@ -182,20 +156,6 @@ knitr::include_graphics('figuras/fig9.jpg')
 ```{r , echo=FALSE, fig.align = 'center', out.width = '35%'}
 knitr::include_graphics('figuras/fig8.jpg')
 ```
-
----
-
-# Bibliografia complementar &#128218;
-
-- MORETTIN, L.G. **Estatística básica: probabilidade e inferência**, volume único. São Paulo: Pearson Prentice Hall, 2009. 375 p.
-
-<br>
-
-- SPIEGEL, M.R.; SCHILLER, J.J.; SRINIVASAN, R.A. **Teoria e problemas de probabilidade e estatística**. 2.ed. São Paulo: McGraw-Hill, 2004. 398 p.
-
-<br>
-
-- FONSECA, J.S.; MARTINS, G.A. **Curso de estatística**. 6.ed. São Paulo: Atlas, 1996. 320 p. 
 
 ---
 
