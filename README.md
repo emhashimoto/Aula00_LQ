@@ -1,8 +1,7 @@
 
-# Aula00_EQ
+# Aula00_LQ
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-O objetivo de Aula00_EQ é fazer uma apresentação da disciplina MA54A para os alunos de Engenharia Química.
-
+O objetivo de Aula00_LQ é fazer uma apresentação da disciplina MA84A para os alunos de Licenciatura em Química.
