@@ -99,11 +99,11 @@ knitr::include_graphics('figuras/utfpr.jpg')
 
 <br>
 
-- Curso e período
+- Período
 
 <br>
 
-- Se você fosse o diretor de uma escola, quais qualificações você olharia em um candidato a professor? 
+- Porque escolheu o curso
 
 ```{r , echo=FALSE, fig.align = 'right', out.width = '60%'}
 knitr::include_graphics('https://media.giphy.com/media/TKNGghpLhaz9XH1tSj/giphy.gif')
@@ -160,7 +160,7 @@ Horário da Aula &#9200;
 
 - Quarta-feira das 18:40--20:20
 
-- **Tolerância**: 15 minutos
+- **Tolerância**: 10 minutos
 ]
 
 <br>
@@ -171,9 +171,9 @@ Horário da Aula &#9200;
 Horário de Atendimento &#9200;
 ]
 .pull-right[
-- Terça-feira das 20:20-21:00
+- Segunda-feira das 10:20-11:10
 
-- Quinta-feira das 20:20-21:00
+- Terça-feira das 19:30-20:50
 ]
 
 ---
@@ -252,231 +252,6 @@ knitr::include_graphics('figuras/fig9.jpg')
 
 ---
 
-# Aulas &#128105;&#8205;&#127979;
-
-&#10004; **Prestar atenção** no que está sendo copiado e no que está sendo discutido.
-
-&#10004; **Questionar** quando tiver dúvidas.
-
-```{r , echo=FALSE, fig.align = 'right', out.width = '60%'}
-knitr::include_graphics('https://media.giphy.com/media/STThOmSL9X8jpaEqfE/giphy.gif')
-```
-
----
-
-# Lista de exercícios &#9997;
-
-Haverá listas de exercícios para serem resolvidas em casa. Resolver os problemas da lista de exercícios é uma forma de aprendizagem, pois é uma maneira de colocar em prática tudo que você leu e ouviu, e vai lhe fornecer um *feedback* sobre o que foi abordado em sala de aula.
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '30%'}
-knitr::include_graphics('https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif')
-```
-
-
-&#10004; Vocês são **encorajados** a resolver problemas com os outros estudantes, compartilhar e discutir ideias.
-
-
-&#10004; As respostas de cada problema devem ser **resultados de seu próprio esforço**.
-
----
-
-# Complementação de carga horária
-
-.pull-left[
-
-&#10004; Atividades extraclasse;
-
-&#10004; Leitura de livros.
-]
-.pull-right[
-
-]
-
-<br>
-
-```{r , echo=FALSE, fig.align = 'right', out.width = '40%'}
-knitr::include_graphics('https://media.giphy.com/media/xTiQywlOn0gKyz0l56/giphy.gif')
-```
-
----
-
-# Provas &#128221;
-
-Haverá três avaliações que vão cobrir o conteúdo abordado em sala de aula, as listas de exercícios e as bibliografias citadas. As soluções de cada uma das provas devem estar bem **organizadas** e **justificadas**. Desta forma, você irá demonstrar sua capacidade de comunicar os seus resultados. Se a prova estiver **difícil de compreender** devido a organização e passagens não justificadas, haverá **penalidades**.
-
-Qualquer conflito com as datas das provas devem ser comunicados na **segunda semana de aula**.
-
-<br>
-
-.pull-left[
-<center>Prova 1</center>
-
-Terça-feira, **22/04/2025**
-]
-.pull-right[
-<center>Prova 2</center>
-
-Terça-feira, **20/05/2025**
-]
-
-<br>
-
-Prova 3
-
-Terça-feira, **17/06/2025**
-
----
-
-# Prova de segunda chamada &#128221;
-
-No caso do aluno perder, **por motivo de doença ou força maior**, alguma avaliação, poderá solicitar, através de requerimento, uma única segunda chamada por avaliação, desde que no prazo determinado no Regulamento da Organização Didático-Pedagógica dos Cursos da UTFPR (Art.36 - Graduação e Art.31 - Técnico)
-
-<br>
-
-.pull-left[
-<center>Prova de Segunda Chamada</center>
-
-Segunda-feira, **09/07/2025**
-]
-.pull-right[
-
-]
-
-<br>
-
-Trabalho ou viagem a passeio **não são motivos** para segunda chamada.
-
----
-
-# APCC &#128105;&#8205;&#127979;
-
-A APCC consistirá de uma aula sobre estatística no contexto da licenciatura em química.
-
-A nota será atribuída de acordo com:
-
-- o plano de aula;
-
-- desempenho do aluno na exposição da aula.
-
-<br>
-
-Maiores detalhes estarão disponíveis no moodle.
-
----
-
-# Critério de avaliação &#128220;
-
-Resolução 122/10-COEPP/Artigo 4:
-
-&#10004; Será **aprovado** o aluno com 75% de presença e obtiver  $MF\geq6$, em que
-		$$MF=0,7MP+0,3NA,$$
-em que $MP=\frac{N1+N2+N3}{3}$ é nota média das provas, $Ni=Pi+Qi \,(i=1,2,3)$ com $Pi$ é a $i$-ésima prova (8 pontos) e $Qi$ é o $i$ésimo quiz (2pontos) e $NA$ é nota da APCC. 
-
-<br>
-
---
-
-&#128680; O aluno com presença entre **25% à 50%**, será aprovado se $MF\geq8$.
-
-<br>
-
---
-
-&#10004; Para $MF$ poderá ser acrescentado um bônus por engajamento de no **máximo** 0,5 pontos a depender da decisão da turma.
-
----
-
-&#10004; O aluno com $MF<6$ deverá fazer a prova de recuperação (**matéria toda** e **sem consulta**) no dia 08-07-2025. A média final será recalculada por 
-$$MFr=\frac{MF+R}{2},$$ 
-em que $R$ é a nota da prova de recuperação. Então, a nota final será determinada pela expressão
-
-$$NF=\min(6,MPr).$$
-Será aprovado o aluno com $NF\geq6$.
-
-<br>
-
---
-
-&#128680; **Aviso**
-
-Bônus e pontos extras não serão considerados para o cálculo da média da prova de recuperação.
-
----
-
-# Cópia de provas (e/ou *internet*) e falsidade
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
-knitr::include_graphics('https://media.giphy.com/media/SRqTQmbYdm5jgS7xH9/giphy.gif
-')
-```
-
-A desonestidade em nosso trabalho acadêmico representa uma **grave violação ética**.
-
-<br>
-
-Para maiores detalhes, consulte o **regulamento disciplinar do corpo discente da UTFPR**
-
-<https://portal.utfpr.edu.br/documentos/graduacao-e-educacao-profissional/prograd/diretrizes-e-regulamentos/gestao/regulamento-disciplinar-do-corpo-discente/view>
-
----
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '50%'}
-knitr::include_graphics('https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif')
-```
-
-
-- Não utilizar o celular ou *notebook* durante a aula, a menos que seja pedido;
-
-<br>
-
---
-
-- Não dormir em aula;
-
-<br>
-
---
-
-- Não ficar conversando quando o docente estiver explicando.
-
-<br>
-
---
-
-- Faltas não serão removidas, a não ser que seja um erro de digitação ou participação em eventos.
-
----
-
-# Preparação e maturidade
-
-&#128680; Conhecimento de cálculo integral e diferencial. 
-
-<br>
-
-&#128680; Disciplina de 4o período.
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
-knitr::include_graphics('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpidGpnZTF5bXRyb3N0Y2d2emV0c213NWFhcHR6anB4aW90emloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orifd9FwNUCc0Ecxi/giphy.gif')
-```
-
----
-
-# Refletir
-
-**Eu terei tempo** para me dedicar a disciplina? 
-
-<br>
-
-**Aprendi e consigo aplicar os conceitos** de Cálculo e fundamentos de matemática?
-
-<br>
-
-```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
-knitr::include_graphics('https://media.giphy.com/media/xThtanqVawzQNeHD20/giphy.gif')
-```
-
----
-
 # <img src="figuras/mod.jpg"  style="width:25%">
 
 &#10004; <https://moodle.utfpr.edu.br/login/index.php>
@@ -487,12 +262,12 @@ knitr::include_graphics('https://media.giphy.com/media/xThtanqVawzQNeHD20/giphy.
 
 <br>
 
-&#10004; Disciplina: 2025 - S1 - Probabilidade e Estatística
+&#10004; Disciplina: 2025 - S2 - Probabilidade e Estatística
 
 <br>
 
 .pull-left[
-&#10004; Senha: MA85A2025
+&#10004; Senha: MA85A
 ]
 .pull-right[
 ```{r , echo=FALSE, fig.align = 'left', out.width = '80%'}
