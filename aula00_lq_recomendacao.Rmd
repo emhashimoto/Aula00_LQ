@@ -1,0 +1,242 @@
+---
+title: "MAT05L - Estatística"
+subtitle: "Avaliações e recomendações &#10024;" 
+author: "Elizabeth Mie Hashimoto <br> DAMAT-LD"
+output:
+  xaringan::moon_reader:
+    css: [default, default-fonts, meu-tema.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: false
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE, 
+                      comment = '',
+                      message = FALSE,
+                      warning = FALSE,
+                      cache = TRUE)
+```
+<style> 
+#caixa {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px blue;
+}
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
+# Provas &#128221;
+
+Haverá duas avaliações que vão cobrir o conteúdo abordado em sala de aula, as listas de exercícios e as bibliografias citadas. As soluções de cada uma das provas devem estar bem **organizadas** e **justificadas**. Desta forma, você irá demonstrar sua capacidade de comunicar os seus resultados. Se a prova estiver **difícil de compreender** devido a organização e passagens não justificadas, haverá **penalidades**.
+
+<br>
+
+.pull-left[
+<center>Prova 1</center>
+
+Terça-feira, **23/09/2025**
+]
+.pull-right[
+<center>Prova 2</center>
+
+Terça-feira, **21/10/2025**
+]
+
+---
+
+# Prova de segunda chamada &#128221;
+
+No caso do aluno perder, **por motivo de doença ou força maior**, alguma avaliação, poderá solicitar, através de requerimento, uma única segunda chamada por avaliação, desde que no prazo determinado no Regulamento da Organização Didático-Pedagógica dos Cursos da UTFPR (Art.36 - Graduação e Art.31 - Técnico)
+
+<br>
+
+.pull-left[
+<center>Prova de Segunda Chamada</center>
+
+Quarta-feira, **17/12/2025**
+]
+.pull-right[
+
+]
+
+<br>
+
+Viagem a passeio **não são motivos** para segunda chamada.
+
+---
+
+# Trabalho &#128214;
+
+A nota do trabalho será dada da seguinte maneira:
+
+- **Teste de hipótese** 
+
+O aluno deverá realizar um teste de hipótese. Apresentar os resultados de maneira clara e bem estruturada, e fazer a discussão dos resultados de forma crítica e fundamentada. A nota máxima para este trabalho é 5,0 pontos.
+
+- **Ajuste de curva** 
+
+O aluno deverá realizar um ajuste de curva. Apresentar os resultados de maneira clara e bem estruturada, e fazer a discussão dos resultados de forma crítica e fundamentada. A nota máxima para este trabalho é 5,0 pontos.
+
+- **Estatística descritiva** 
+
+O aluno deverá realizar uma estatística descritiva. Apresentar os resultados de maneira clara e bem estruturada, e fazer a discussão dos resultados de forma crítica e fundamentada. A nota máxima para este trabalho é 5,0 pontos.
+
+---
+
+**Importante**: A pontuação final será a soma dos duas maiores notas. A entrega dos trabalhos será feita de acordo com o cronograma estipulado no moodle, e os prazos deverão ser rigorosamente seguidos.
+
+---
+
+# Trabalho - sugestões 💡
+
+## Testes de Hipótese
+
+**Objetivo**: Verificar se há evidência estatística para uma suposição feita sobre uma população, com base em uma amostra.
+
+Sugestões de problemas:
+
+- Testar se o teor de um conservante em um alimento está dentro do limite especificado pela legislação.
+
+- Comparar se há diferença significativa entre o peso médio nominal e o peso real de comprimidos.
+
+- Testar se a média de pH de um produto está de acordo com o padrão estabelecido.
+
+- Verificar se a taxa de rejeição de produtos ultrapassa um limite aceitável.
+
+- Comparar o tempo médio de dissolução entre dois lotes de medicamentos.
+
+---
+
+- Testar se há diferença estatística entre a concentração média de um composto antes e depois de um novo procedimento de produção.
+
+---
+
+## Ajuste de Curva
+
+**Objetivo**: Relacionar duas variáveis quantitativas, ajustar modelos e interpretar coeficientes.
+
+Sugestões de aplicações:
+
+- Relacionar tempo de armazenamento e perda de massa ou umidade de um alimento.
+
+- Relacionar temperatura e tempo de reação química na produção de um princípio ativo.
+
+- Modelar a degradação de um componente químico ao longo do tempo (curvas de estabilidade).
+
+- Analisar a correlação entre dose de ingrediente ativo e eficácia medida em laboratório.
+
+- Relacionar viscosidade e temperatura em um processo de mistura.
+
+- Estimar o rendimento de um processo em função da concentração de reagentes.
+
+---
+
+## Estatística Descritiva
+
+**Objetivo**: Organizar, resumir e interpretar dados com medidas de tendência central, dispersão e representação gráfica.
+
+Sugestões de dados a coletar:
+
+- Medições de pH de diferentes lotes de um produto.
+
+- Peso de comprimidos ou cápsulas produzidos em uma linha de produção (verificando variação).
+
+- Tempo de validade de produtos armazenados em diferentes condições (ex: temperatura, umidade).
+
+- Teor de umidade ou concentração de um ingrediente ativo em amostras de alimentos/fármacos.
+
+- Número de unidades defeituosas por lote durante um período de tempo.
+
+- Temperatura ou tempo de cozimento/processamento em diferentes etapas da produção.
+
+---
+
+# Critério de avaliação &#128220;
+
+Resolução 122/10-COEPP/Artigo 4:
+
+&#10004; Será **aprovado** o aluno com 75% de presença e obtiver  $MF\geq6$, em que
+		$$MF=\frac{N_1+N_2+NT}{3},$$
+em que $Ni=Pi+Qi \,(i=1,2)$ com $Pi$ é a $i$-ésima prova (8,0 pontos) e $Qi$ é o $i$-ésimo quiz (2,0 pontos) e $NT$ é a soma de dois trabalhos (individual) com valor máximo de 5,0 pontos cada.
+
+<br>
+
+--
+
+&#128680; O aluno com presença entre **25% à 50%**, será aprovado se $MF\geq8$.
+
+<br>
+
+--
+
+&#10004; Para $MF$ poderá ser acrescentado um bônus por engajamento de no **máximo** 0,5 pontos.
+
+---
+
+&#10004; O aluno com $MF<6$ deverá fazer a prova de recuperação (**matéria toda** e **sem consulta**) no dia 16-12-2025. A média final será recalculada por 
+$$MFr=\frac{MF+R}{2},$$ 
+em que $R$ é a nota da prova de recuperação. Então, a nota final será determinada pela expressão
+
+$$NF=\min(6,MPr).$$
+Será aprovado o aluno com $NF\geq6$.
+
+<br>
+
+--
+
+&#128680; **Aviso**
+
+Bônus e pontos extras não serão considerados para o cálculo da média da prova de recuperação.
+
+---
+
+# Cópia de provas (e/ou *internet*) e falsidade
+
+```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
+knitr::include_graphics('https://media.giphy.com/media/SRqTQmbYdm5jgS7xH9/giphy.gif
+')
+```
+
+A desonestidade em nosso trabalho acadêmico representa uma **grave violação ética**.
+
+<br>
+
+Para maiores detalhes, consulte o **regulamento disciplinar do corpo discente da UTFPR**
+
+<https://portal.utfpr.edu.br/documentos/graduacao-e-educacao-profissional/prograd/diretrizes-e-regulamentos/gestao/regulamento-disciplinar-do-corpo-discente/view>
+
+---
+
+#Recomendações
+
+```{r , echo=FALSE, fig.align = 'center', out.width = '35%'}
+knitr::include_graphics('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2M5aDBubmxqcnVsMHpobXZ2Yjd4N3VjbnZlOGYwNm5wOXQ2cHk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lraXagM6W2ae23iiRC/giphy.gif')
+```
+
+- Se você faltar em uma aula, é sua responsabilidade saber o que foi discutido;
+
+--
+
+- A aula é apenas um guia. Você aprende de fato, lendo, fazendo exercícios e refletindo sobre o que foi ensinado.
+
+--
+
+- Sair da aula com a sensação de que entendeu a materia não é um indício de que você entendeu a matéria, e nem de que a matéria é fácil. Faça exercícios e leia um livro!
+
+---
+
+# Preparação e maturidade
+
+&#128680; Incluído o pré-requisito de Cálculo I.
+
+```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
+knitr::include_graphics('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpidGpnZTF5bXRyb3N0Y2d2emV0c213NWFhcHR6anB4aW90emloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orifd9FwNUCc0Ecxi/giphy.gif')
+```

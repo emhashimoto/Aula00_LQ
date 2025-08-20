@@ -1,5 +1,5 @@
 ---
-title: "MA85A - Probabilidade e Estatística"
+title: "MAT05L - Estatística"
 subtitle: "Apresentação da disciplina&#10024;" 
 author: "Elizabeth Mie Hashimoto <br> DAMAT-LD"
 output:
@@ -180,7 +180,7 @@ Horário de Atendimento &#9200;
 
 # Conteúdo Programático &#128214;
 
-&#10004; Conceitos básicos de probabilidade
+&#10004; Estatística descritiva
 
 ```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
 knitr::include_graphics('figuras/fig2.jpg')
@@ -210,11 +210,8 @@ knitr::include_graphics('figuras/fig5.jpg')
 
 --
 
-&#10004; Conceitos básicos de estatística experimental.
+&#10004; Ajuste de curvas.
 
-```{r , echo=FALSE, fig.align = 'center', out.width = '50%'}
-knitr::include_graphics('figuras/fig6.jpg')
-```
 
 ---
 
